@@ -6,6 +6,7 @@ The Smart Approval Workflow Management System is a full-stack enterprise web app
 
 Built using React, FastAPI, and Oracle Database, the system provides secure role-based access control, request tracking, approval management, notifications, and analytics.
 
+
 ---
 
 ## Problem Statement
